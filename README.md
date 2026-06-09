@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rudra 👋
 
-<!--
-**Rudra-pointer/Rudra-pointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and passionate about Machine Learning, Data Science, LLMs, Generative AI, backend development in Python and Java, and building AI-powered web apps.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- Prompt Engineering
+- Multi-Agent Workflows
+- LLMs (from Andrej Karpathy)
+- RAG Pipelines
+
+## Connect With Me
+
+- GitHub: https://github.com/Rudra-pointer
+- Gmail: rudranarayanadhal75@gmail.com
