@@ -115,17 +115,14 @@ const rudra = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/rudra-pointer">
+  <a href="https://github.com/Rudra-pointer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:rudranarayanadhal75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/rudra-pointer">
+  <a href="https://www.linkedin.com/in/rudra-narayan-dhal-3a15a5330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/rudra_pointer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
