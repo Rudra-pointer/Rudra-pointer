@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="toothless.gif" width="150" alt="Toothless"/>
+</p>
 # Hi, I'm Rudra 👋
 
 Computer Science student and passionate about Machine Learning, Data Science, LLMs, Generative AI, backend development in Python and Java, and building AI-powered web apps.
