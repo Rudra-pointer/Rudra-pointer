@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="toothless.gif" width="1000" alt="Toothless"/>
+  <img src="toothless.gif" width="200" alt="Toothless"/>
 </p>
 # Hi, I'm Rudra 👋
 
