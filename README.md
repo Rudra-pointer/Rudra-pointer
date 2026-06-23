@@ -10,7 +10,7 @@
 
 <!-- Toothless GIF Hero Section -->
 <div align="center">
-  <img src="./toothless.gif" width="280" alt="Toothless"/>
+  <img src="./toothless.gif" width="200" alt="Toothless"/>
 </div>
 
 <!-- Typing SVG -->
