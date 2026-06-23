@@ -1,6 +1,16 @@
-<!-- Animated Header -->
+<!-- 3D Animated Anime Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Rudra%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<a href="https://github.com/rudra-pointer">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=250&section=header&text=I'M%20RUDRA&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=62&descSize=20&stroke=FF00FF&strokeWidth=2"/>
+</a>
+
+</div>
+
+
+<!-- Toothless GIF Hero Section -->
+<div align="center">
+  <img src="./toothless.gif" width="280" alt="Toothless"/>
 </div>
 
 <!-- Typing SVG -->
@@ -85,37 +95,6 @@ const rudra = {
 
 <br/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra-pointer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-pointer&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-pointer&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-pointer&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudra-pointer&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
-</div>
-
-<br/>
 
 <!-- Currently Learning -->
 ## 🌱 Currently Learning
@@ -152,23 +131,6 @@ const rudra = {
 
 <br/>
 
-<!-- Quote -->
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rudra-pointer/rudra-pointer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<br/>
 
 <!-- Footer Wave -->
 <div align="center">
