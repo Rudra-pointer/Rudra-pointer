@@ -1,16 +1,17 @@
-<!-- 3D Animated Anime Header -->
+<!-- 3D Animated Anime Header with Toothless Side-by-Side -->
 <div align="center">
-
-<a href="https://github.com/rudra-pointer">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=250&section=header&text=I'M%20RUDRA&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=62&descSize=20&stroke=FF00FF&strokeWidth=2"/>
-</a>
-
-</div>
-
-
-<!-- Toothless GIF Hero Section -->
-<div align="center">
-  <img src="./toothless.gif" width="200" alt="Toothless"/>
+  <table>
+    <tr>
+      <td width="35%" align="center">
+        <img src="./toothless.gif" width="200" alt="Toothless"/>
+      </td>
+      <td width="65%" align="center">
+        <a href="https://github.com/rudra-pointer">
+          <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=250&section=header&text=Hi,%20I'm%20Rudra&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=62&descSize=20&stroke=FF00FF&strokeWidth=2"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Typing SVG -->
